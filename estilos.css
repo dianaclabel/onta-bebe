@@ -1,22 +1,22 @@
-*{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
-img{
-    display:block;
-    max-width:100%;
-}
-
-.escena{
-    position:relative;
-    width: 50%;
-    border: 2px solid red;
-    margin:50px auto;
+img {
+  display: block;
+  max-width: 100%;
 }
 
-.burbuja{
-    width: 500px;
-    position: absolute;
-    left: 20%;
+.escena {
+  position: relative;
+  width: 50%;
+  border: 2px solid red;
+  margin: 50px auto;
+}
+
+.burbuja {
+  width: 500px;
+  position: absolute;
+  left: 20%;
 }
